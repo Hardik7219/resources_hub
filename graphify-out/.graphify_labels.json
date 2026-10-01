@@ -1,0 +1,14 @@
+{
+  "0": "compilerOptions",
+  "1": "ResourcesGrid.tsx",
+  "2": "package.json",
+  "3": "layout.tsx",
+  "4": "ResourcesHub.tsx",
+  "5": "devDependencies",
+  "6": "dependencies",
+  "7": "scripts",
+  "8": "README.md",
+  "9": "AGENTS.md",
+  "10": "postcss.config.mjs",
+  "11": "CLAUDE.md"
+}
